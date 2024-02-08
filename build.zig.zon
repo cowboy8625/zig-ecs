@@ -1,0 +1,15 @@
+.{
+    .name = "ecs",
+    .version = "0.2.0",
+    .paths = .{
+        "examples",
+        "src",
+        "tests",
+        "build.zig",
+        "build.zig.zon",
+        "zig.mod",
+        "LICENSE",
+        "README.md",
+    },
+    .dependencies = .{},
+}
